@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![ahds](https://github.com/youssefbarj/ahds/raw/main/screenshot.png)
+![ahds](https://raw.githubusercontent.com/youssefbarj/ahds/main/screenshot.png)
 
 ## What this slide does
 
